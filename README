@@ -2,4 +2,4 @@ run ./d42shell.sh <host>
 
 This will work for instances of Device42  DCIM appliance prior to update 11.0.0.
 
-As seen as BSides DFW 2016
+As seen at BSides DFW 2016
